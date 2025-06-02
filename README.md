@@ -27,3 +27,5 @@ Panduan lengkap dapat dilihat di tautan berikut:
 - Menghubungkan aplikasi Java dengan database (misalnya SQL Server)
 - Menampilkan data dari database menggunakan GUI (Java Swing)
 - Mengekspor laporan data ke dalam file PDF menggunakan JasperReports
+
+![Demo Aplikasi](assets/demo.gif)
