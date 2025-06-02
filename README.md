@@ -1,18 +1,29 @@
-## Getting Started
+# 📘 Project Tugas Basis Data - Jasper Library
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Project ini dibuat oleh:
 
-## Folder Structure
+- **Nama**: A. Agung Ngurah Bayu Widia Putra  
+- **NIM**: 235150207111066
 
-The workspace contains two folders by default, where:
+Sebagai pemenuhan tugas mata kuliah **Basis Data**, dengan topik **Jasper Library**.  
+Proyek ini mengimplementasikan fitur **pelaporan data ke dalam format PDF** menggunakan **JasperReports** dalam bahasa pemrograman **Java**, dan dapat dijalankan melalui **Visual Studio Code**.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🗂 Struktur Folder
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- `src`: Berisi kode sumber Java  
+- `lib`: Berisi dependensi (library eksternal seperti JasperReports)  
+- `bin`: Output hasil kompilasi (terbentuk otomatis)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> Jika Anda ingin menyesuaikan struktur folder, ubah pengaturannya di `.vscode/settings.json`.
 
-## Dependency Management
+## ⚙️ Manajemen Dependensi
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Gunakan tampilan `JAVA PROJECTS` di sisi kiri Visual Studio Code untuk mengelola dependensi seperti JasperReports.  
+Panduan lengkap dapat dilihat di tautan berikut:  
+🔗 [VS Code Java Dependency Guide](https://github.com/microsoft/vscode-java-dependency#manage-dependencies)
+
+## 📄 Fitur Proyek
+
+- Menghubungkan aplikasi Java dengan database (misalnya SQL Server)
+- Menampilkan data dari database menggunakan GUI (Java Swing)
+- Mengekspor laporan data ke dalam file PDF menggunakan JasperReports
