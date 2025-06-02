@@ -28,4 +28,9 @@ Panduan lengkap dapat dilihat di tautan berikut:
 - Menampilkan data dari database menggunakan GUI (Java Swing)
 - Mengekspor laporan data ke dalam file PDF menggunakan JasperReports
 
-![Demo Aplikasi](assets/demo.gif)
+## 💻 Demo Aplikasi
+
+Berikut adalah tampilan demo dari aplikasi pelaporan berbasis Java menggunakan JasperReports:
+
+![Demo](assets/demo.gif)
+
